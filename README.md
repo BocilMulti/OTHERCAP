@@ -32,6 +32,8 @@ Tools Ini Masih Di Sempurnakan Dan Masih Sangat Sederhana
 
 Jika Ada Bug Kalian Bisa Lapor Ke Saya
 
+Tutorial Ngeflash ESP8266 Ada Di Link: https://github.com/BocilMulti/OTHERCAP/releases
+
 Sekian Terimakasih
 
 Saya Berharap Kalian Bisa Menyukai Tools Ini
