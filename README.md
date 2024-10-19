@@ -39,3 +39,8 @@ Sekian Terimakasih
 Saya Berharap Kalian Bisa Menyukai Tools Ini
 
 :)
+
+-------------------------------------------------------------------------------------------------------------
+EXTRA
+
+Link Undangan Server Discord: https://discord.gg/zjHhwUJaQb
