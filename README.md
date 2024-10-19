@@ -31,3 +31,9 @@ PENUTUPAN
 Tools Ini Masih Di Sempurnakan Dan Masih Sangat Sederhana
 
 Jika Ada Bug Kalian Bisa Lapor Ke Saya
+
+Sekian Terimakasih
+
+Saya Berharap Kalian Bisa Menyukai Tools Ini
+
+:)
