@@ -9,7 +9,7 @@ Terinspirasi Dari Fluxion Portable Yang Dibuat Oleh Fluxion Network Dan NETHERCA
 CARA MENGINSTALL OTHERCAP DI ESP8266
 
 1. Install NODEMCU Flasher Di Link Berikut: https://github.com/nodemcu/nodemcu-flasher
-2. Install File OTHERCAP Di Link Berikut:
+2. Install File OTHERCAP Di Link Berikut: https://github.com/BocilMulti/OTHERCAP/releases
 3. Buka Aplikasi NODEMCU Lalu Ke Menu Config Dan Pilih File OTHERCAP
 4. Jika Sudah Kalian Bisa Flash ESP8266 Kalian
 
