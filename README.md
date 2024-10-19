@@ -25,6 +25,8 @@ FUNGSI
 
 1. Deauth: Deauth Adalah Proses Untuk Membuat Semua Device Yang Terhubung Di Jaringan Target Akan Terputus
 2. Serangan Evil Twin: Serangan Evil Twin Adalah Proses Untuk Membuat Kloningan Jaringan Palsu Dan Jika Target Memasukan Password Jaringan Asli Ke Kloningan Jaringan Palsu Itu Kita Akan Mengetahui Password Jaringan Target
+-------------------------------------------------------------------------------------------------------------
+PENUTUPAN
 
 Jika Ada Bug Kalian Bisa Laporkan Ke Saya
 TOOLS MASIH DISEMPURNAKAN 
