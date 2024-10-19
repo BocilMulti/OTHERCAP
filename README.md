@@ -28,6 +28,6 @@ FUNGSI
 -------------------------------------------------------------------------------------------------------------
 PENUTUPAN
 
-Jika Ada Bug Kalian Bisa Laporkan Ke Saya
-TOOLS MASIH DISEMPURNAKAN 
-TOOLS BELUM SEMPURNA DAN MASIH SANGAT SEDERHANA
+Tools Ini Masih Di Sempurnakan Dan Masih Sangat Sederhana
+
+Jika Ada Bug Kalian Bisa Lapor Ke Saya
