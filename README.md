@@ -5,7 +5,7 @@ Tools Ini Adalah Remake Dari https://github.com/M1z23R/ESP8266-EvilTwin
 
 Terinspirasi Dari Fluxion Portable Yang Dibuat Oleh Fluxion Network Dan NETHERCAP Yang Dibuat Oleh Cancro29
 
-===========================================================================================================
+-------------------------------------------------------------------------------------------------------------
 CARA MENGINSTALL OTHERCAP DI ESP8266
 
 1. Install NODEMCU Flasher Di Link Berikut: https://github.com/nodemcu/nodemcu-flasher
@@ -13,14 +13,14 @@ CARA MENGINSTALL OTHERCAP DI ESP8266
 3. Buka Aplikasi NODEMCU Lalu Ke Menu Config Dan Pilih File OTHERCAP
 4. Jika Sudah Kalian Bisa Flash ESP8266 Kalian
 
-==========================================================================================================
+-------------------------------------------------------------------------------------------------------------
 CARA MEMAKAI
 
 1. Cari AP Yang Bernama OTHERCAP
 2. Lalu Masukan Password "OTHERCAP123"
 3. Jika Sudah Kalian Bisa Menikmati OTHERCAP
 
-===========================================================================================================================
+-------------------------------------------------------------------------------------------------------------
 FUNGSI
 
 1. Deauth: Deauth Adalah Proses Untuk Membuat Semua Device Yang Terhubung Di Jaringan Target Akan Terputus
